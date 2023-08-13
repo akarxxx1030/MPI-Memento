@@ -4,3 +4,5 @@ The list of programs consists of a few example programs to understand language c
 
 MPI constructs effectively utilised in Matrix Addition, Matrix Multiplication, Merge Sort and Prefix Sum algorithms.
 
+The above programs/algorithms were run on the Paramvidya Supercomputer Node @ IIT Palakkad courtesy of Centre for Design of Advanced Computing (C-DAC) and submit jobs were accordingly created through a testscript. 
+
